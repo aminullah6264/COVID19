@@ -1,3 +1,3 @@
 # COVID19
 
-# The paper is in peer review process, therefore, the code will be online after the publiction
+This repository is under review and construction and the paper is in peer review process. It will be released ASAP.
