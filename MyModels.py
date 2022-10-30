@@ -1,7 +1,7 @@
 import tensorflow as tf
 from keras_self_attention import SeqSelfAttention
 import numpy as np
-
+# all models file
 class Conv1DModel(tf.keras.Model):
 
   def __init__(self):
